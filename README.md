@@ -28,15 +28,7 @@ The application uses the `reshaped_unemployment_data.csv` dataset, which contain
 - Employed: Number of employed individuals
 - Unemployment_Rate: Unemployment rate as a percentage
 
-## Installation
 
-1. Clone this repository
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
+![Screenshot 2025-04-27 135510](https://github.com/user-attachments/assets/ed272d30-27a0-49a4-8b40-6aa5bca3040f)
 
 
-
-
-![Screenshot 2025-04-27 135510](https://github.com/user-attachments/assets/2529449b-e32a-4c1f-a6b0-41d12078234f)
