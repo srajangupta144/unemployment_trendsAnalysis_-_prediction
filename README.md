@@ -36,5 +36,7 @@ The application uses the `reshaped_unemployment_data.csv` dataset, which contain
 ```bash
 pip install -r requirements.txt
 
-![Screenshot 2025-04-27 135510](https://github.com/user-attachments/assets/ee4c3a8f-fbde-4750-b54f-2dd1cc1615b7)
 
+
+
+![Screenshot 2025-04-27 135510](https://github.com/user-attachments/assets/2529449b-e32a-4c1f-a6b0-41d12078234f)
